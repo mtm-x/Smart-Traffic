@@ -12,19 +12,3 @@
 
 
 
-## Screenshots of Navigation to nearest hospital
-
-![navigation UI](https://github.com/user-attachments/assets/a4c1775b-1a1f-4e62-a4e5-c75327249775)
-
-
-![navigation1](https://github.com/user-attachments/assets/d402f026-8c52-4360-abb2-1e112bffb36e)
-
-
-![navigation2](https://github.com/user-attachments/assets/752c67ee-a3f5-4cc4-b8a0-11290da6ef50)
-
-# Video of navigation
-
-
-
-https://github.com/user-attachments/assets/b3c14834-3937-4829-8a81-ef60e2bb1dfd
-
