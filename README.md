@@ -5,4 +5,6 @@
 ![Screenshot from 2024-10-20 18-45-09](https://github.com/user-attachments/assets/c48c77c5-ee1f-4b53-99cc-2616bee8a3ec)
 
 
+![Screenshot_20241211_165328](https://github.com/user-attachments/assets/d4ddf2b5-e879-407f-85d6-607a822bf7a7)
 
+![Screenshot_20241211_165522](https://github.com/user-attachments/assets/bc91a8bb-4254-4949-9488-29ef193f6e9b)
