@@ -1,9 +1,3 @@
-# Ambulance Detection Using openCV 
-  Enables green light and navigation to nearest hospital
-
-## Introduction
-  Pre Trained the model with 4000+ ambulance images with YoloV5 for ambulance detection. For this setup we used the IP camera of mobile using droid cam app. This python script will detect the ambulance with confident>0.80(probability) and send the ssh command to raspberry pi to turn ON the green light.
-
 ## Screenshots of ambulance detection
 
 ![Screenshot from 2024-10-17 02-02-49](https://github.com/user-attachments/assets/15438382-25f8-4090-9ef6-c4500bb20e6f)
@@ -11,4 +5,6 @@
 ![Screenshot from 2024-10-20 18-45-09](https://github.com/user-attachments/assets/c48c77c5-ee1f-4b53-99cc-2616bee8a3ec)
 
 
+![Screenshot_20241211_165328](https://github.com/user-attachments/assets/d4ddf2b5-e879-407f-85d6-607a822bf7a7)
 
+![Screenshot_20241211_165522](https://github.com/user-attachments/assets/bc91a8bb-4254-4949-9488-29ef193f6e9b)
